@@ -20,7 +20,7 @@ url: "https://justanother-timetraveller.github.io" # the base hostname & protoco
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/assets/Profile Pic 1.jpg"
 
 # Build settings
 markdown: kramdown
